@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+DefaultContentLanguage = 'es'
+title = 'Crónicas de Paula'
+theme = 'hugo-theme-stack'
