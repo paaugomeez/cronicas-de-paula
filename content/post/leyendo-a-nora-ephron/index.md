@@ -2,7 +2,7 @@
 title: Leyendo a Nora Ephron
 description:
 slug: leyendo-a-nora-ephron
-date: 2025-11-11 19:11:84+0100
+date: 2025-11-11
 categories:
   - Review
 tags:
