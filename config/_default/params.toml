@@ -20,7 +20,7 @@ subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit." # TODO:
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/perro.jpeg" # TODO:
+src = "img/saturnina.jpg" # TODO:
 
 [article]
 headingAnchor = false
