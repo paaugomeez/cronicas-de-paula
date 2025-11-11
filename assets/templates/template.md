@@ -2,7 +2,7 @@
 title: 
 description: 
 slug: 
-date: {{date}} {{time:HH:MM:SSZZ}}
+date: {{date}}
 categories:
   - Review
   - Historieta
