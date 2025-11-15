@@ -1,0 +1,33 @@
+---
+title: Ya no me creo nada.
+description:
+slug:
+date: 2025-11-15
+categories:
+  - Crónica
+tags:
+weight: 1
+---
+Siempre ha sido así: la historia es de quien la escribe, la noticia es de quien la cuenta. Podemos vivir sin caer en esto, pero el día que te llega la revelación, no puedes hacer como si nunca hubiera pasado. En mi caso, dicha *revelación* me llegó cuando me leí una biografía de María Estuardo seguida de una biografía de Isabel I de Inglaterra. Me encantan las biografías, son mi placer culpable (o *guilty pleasure*), ya que juntan todo lo que me puede interesar: historia y cotilleo en un mismo mix. El único inconveniente que les puedo ver, es que ya se sabe como va a terminar...
+
+Pero, volviendo a la biografías de las dos reinas, resulta que las tenía en mi posesión porque hubo una temporada, cuando los quioscos tenían beneficios de verdad y la gente compraba periódico en papel, en la que vendían una colección de libros sobre las vidas de mujeres importantes de la historia. Cada semana, un libro nuevo a un precio asequible. Al final, pasada una temporada, tenía veinte libros apilados en mi casa y nada de tiempo para leerlos, así que los tengo en las estantería ordenados por orden cronológico esperando a ser leídos. De vez en cuando, como son libros de colores llamativos, la vista se me va hacia ellos, leo el nombre de una de esas mujeres en el lomo, y decido leerlo. 
+
+Así terminé leyendo la vida de María Estuardo, la reina de Escocia católica, que tuvo un reinado insoportable debido a que nadie quería a una mujer como reina y a que fue engañada por un inglés, hasta que terminó prisionera de Isabel I de Inglaterra, la cual, tras años de cautiverio, ordenó que la decapitaran. ¿Ahora entendéis porqué, después de leer sobre ella, tenía que leer sobre Isabel también? Las vidas de las dos estaban muy conectadas, tanto familiarmente (si Isabel no tenía descendencia, María heredaría el trono de Inglaterra), como políticamente, al ser las dos reinas de dos países colindantes y que estaban en guerra constante. 
+
+Ahora que ya os he puesto en contexto, ¿vosotros créeis que se llevarían bien? 
+
+Según las biografías que leí, las dos reinas eran amiguísimas, e Isabel tuvo en cautiverio a María durante tanto tiempo porque quiso retrasar su muerte lo máximo posible, pero las presiones de su gobierno le mandaban hacer lo contrario. En otros sitios, he leído que se odiaban, que Isabel tenía envidia de María porque era más joven y guapa (Isabel tenía muchas marcas en la cara debido a la viruela, y siempre iba maquillada de blanco para que no se le notara), y porque, al fin y al cabo, era la reina de su país más o menos enemigo. Y fue esta mezcla de información, esta dicotomía, lo que me hizo pensar que no sabemos qué pensaban la una de la otra, y la verdad es que nunca lo sabremos. Todo han sido interpretaciones, no hechos.
+
+Es en estos momentos cuando te das cuenta de que, al fin y al cabo, la Historia es eso: una historia - basada en hechos y pruebas, pero una historia. No sabemos si María e Isabel se idolatraban o no se podían ni ver; no sabemos si Quevedo y Góngora se odiaban tanto de verdad, o era más bien un *enemies-to-lovers*; no sabemos si el Cid verdaderamente existió, y de existir, si de verdad fue tan heroico como cuentan; o si todos los milagros que nos cuentan que en un pasado ocurrieron, pasaron de verdad. La Historia es una historia que depende de quien te la cuente. 
+
+Todo esto puede sonar algo escéptico, pero es que es una realidad que se está empezando a materializar: los historiadores le están dando la vuelta a la tortilla, y están sacando nuevos puntos de vista a la luz que nunca se nos habrían ocurrido. Detrás de cada hombre que ha hecho algo revolucionario, había una mujer a su lado; el colonialismo ya no se ve como un triunfo a celebrar, sino como un acontecimiento del que aprender; y, al final, va y resulta que pensábamos que habíamos sido nosotros los que habíamos llevado la civilización a las colonias, cuando en realidad ellos ya estaban bastante avanzados por su cuenta. Puede que incluso más que los europeos.
+
+La narrativa es algo muy importante. Puede significarlo todo: hacer la paz o hacer la guerra, ser el triunfador o ser el perdedor; ser el bueno o ser el malo; que ocurran las cosas como tu quieres, o que las cosas ocurran como deberían ocurrir. Antes, el Poder era el que determinaba quien tenía la narrativa, como en los mapas de EEUU, que se ponen a ellos en el centro y parten Asia por la mitad, así como, modifican la escala para hacerles parecer más grandes en comparación con, por ejemplo, África. Ahora, con las redes sociales y cada vez más gente con cultura y estudios superiores, cada uno puede crear su propia historia. 
+
+Creo que esto era a lo que se referían los filósofos griegos cuando iban en busca de la verdad o lo real. ¿Qué es lo que ocurre de verdad? ¿Qué es aquello que es tan real que no se puede ni refutar? Si en aquella época ya era difícil de distinguir, imaginad ahora. 
+
+No sé vosotros, pero yo vivo en constante confusión, y no solo por lo de la Historia que os acabo de contar, sino también a la hora de recibir cualquier información. Está todo tan polarizado que no puedes coger un periódico al azar, leer una noticia y creértela, porque probablemente, de forma subliminar, estará dejando a unos como los buenos y a otros como los malos, afectando a tu forma de ver la realidad. Si quieres saber qué ha ocurrido en realidad, tienes que cogerte todos los periódicos de todos los bandos y hacer un trabajo de investigación: ver qué partes se repiten, qué frases suenan poco creíbles o si utilizan palabras que doten de cierta condición a ciertos hechos. Ya no hay fuentes de información fiables, aunque todas se caractericen como tal.
+
+En fin, voy a ser clara: la objetividad a muerto. Creo que ya llevaba muriéndose un tiempo, pero es que hemos llegado a tales extremos en los que ya no sabes en quién confiar. Todo es relativo a algo, todo es desde un punto de vista, todo es subjetivo. Y es que es verdad que esto forma parte de una sociedad democrática: el poder tener tu propia opinión y poder expresarla. Pero el problema yace en que no hay verdades objetivas a partir de las cuales crear nuestra opinión. Ya no. Ahora está todo ya medio torcido hacia un lado, en vez de ir recto, y si tu quieres tener el poder de decidir hacia donde ir, deberían de darte libertad de movimiento, con objetividad. 
+
+Todos dicen que ellos tienen razón, todos dicen que los demás se equivocan. Yo ya no me creo nada.
